@@ -3,8 +3,8 @@
 This project focuses on analyzing video game sales data using two powerful tools: Talend for data integration and Tableau for visualization. The goal is to provide a comprehensive overview of video game sales trends, genres, and performance across different regions.
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://miro.medium.com/v2/resize:fit:640/1*4shKXJIcheknb_-QQvBy8Q.jpeg" width="500"  />
-  <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" width="500" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/1*4shKXJIcheknb_-QQvBy8Q.jpeg" width="300"  />
+  <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" width="300" />
 </div>
 
 
