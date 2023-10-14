@@ -1,6 +1,7 @@
 # Video-Game-Sales-Analysis-with-Talend-and-Tableau
 
 This project focuses on analyzing video game sales data using two powerful tools: Talend for data integration and Tableau for visualization. The goal is to provide a comprehensive overview of video game sales trends, genres, and performance across different regions.
+
 ![Image 1]([images/image1.png](https://miro.medium.com/v2/resize:fit:640/1*4shKXJIcheknb_-QQvBy8Q.jpeg))
 ![Image 2]([images/image2.png](https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png))
 
